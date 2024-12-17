@@ -14,7 +14,22 @@ The output folder will contain the following results:
 
 ---
 
-## **Usage**
+# Installation process
+### 1st Step: Clone Repository
+
+To clone this repository to your local machine, use the following command:
+
+#### Using HTTPS
+```bash
+git clone https://github.com/emar2204/taxonomic-analysis
+```
+
+#### Navigating into tool directory
+```bash
+cd taxonomic-analysis/
+```
+
+## **Manual Execution Usage**
 
 Run the script with the following syntax:
 
